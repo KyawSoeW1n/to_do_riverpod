@@ -1,0 +1,1 @@
+enum TaskFilterType { pending, done }
